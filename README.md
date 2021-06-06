@@ -1,4 +1,6 @@
-### [About Me](https://evan.gallis.xyz)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+
+##[About Me](https://evan.gallis.xyz)
 
 I'm Evan, a Systems and Distributed Architecture Engineer that is extremely motivated when it comes to working on projects and learning new skills. My focus is in automated infrastructure deployment, devops, monitoring, and security. You’ll find me in the mountains or my homelab most days!
 
