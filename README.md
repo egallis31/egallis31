@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - I’m currently working on dynamic hyrbrid cloud architecture with mult-site Kubernetes and full public/private PKI
-- Fully integrated Azure Hybrid AD + MDM Services + Cloudflare Teams for strict and secure IAM Access to all resources
+- Fully integrated Azure Hybrid AD + MDM Services + Cloudflare Teams + Full OIDC for strict and secure IAM Access to all resources
 - Automated SIEM Stack utlizing ECK (Elastic Cloud on Kubernetes)
 - Keybase [@egallis](https://keybase.io/egallis)
 - 📫 How to reach me: [@egallis31](https://linkedin.com/in/evan-gallis)
