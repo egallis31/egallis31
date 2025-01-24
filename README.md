@@ -2,7 +2,7 @@
 
 ## [About Me](https://evan.gallis.xyz)
 
-Within the everchanging world of securing our technology, I am currently a Lead Senior Security and Cloud Architecture Engineer that is extremely motivated when it comes to working on cutting-edge security projects and full-stack security engineering. Within my profession, I continously am taking the leap learning new skills relevant to modern tech deployments and am heavily involved in managing Kubernetes and cloud native (CNCF) approaches from bare metal. As a result of this passion, my current key focal points in my carreer lean towards automated infrastructure deployments, secure devops, full-stack monitoring, and agile security. In my free time, you'll be sure to find me in the mountains or working on building out my multi-regional homelab most days!
+Within the everchanging world of securing our technology, I am currently a Lead Senior Security and Cloud Architecture Engineer that is extremely motivated when it comes to working on cutting-edge security projects and full-stack security engineering. Within my profession, I continuously am taking the leap learning new skills relevant to modern tech deployments and am heavily involved in managing Kubernetes and cloud native (CNCF) approaches from bare metal. As a result of this passion, my current key focal points in my career lean towards automated infrastructure deployments, secure devops, full-stack monitoring, and agile security. In my free time, you'll be sure to find me in the mountains or working on building out my multi-regional homelab most days!
 
 <!--
 **egallis31/egallis31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
